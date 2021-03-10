@@ -1,4 +1,4 @@
-The rainbow and the unicorn.
+The rainbow, the unicorn and the turbo snake.
 
 Purple
 Blue
@@ -8,3 +8,7 @@ Orange
 Red
 These are the colors of the rainbow.
 and the unicorn wears these colors too.
+
+A turbo snake only wands fast colors 
+The turbo snake can not deside what color combination is equal to supper fast.
+
